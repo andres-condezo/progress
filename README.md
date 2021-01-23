@@ -19,4 +19,4 @@
 
 > This project forms part of "50 Projects In 50 Days" series.
 
-You can see a live preview here: https://andres-condezo.github.io/cards/
+You can see a live preview here: https://andres-condezo.github.io/progress/
